@@ -1,0 +1,6 @@
+{
+    "name": "apiato/voter",
+    "description": "Voter Container for apiato.",
+    "require": {
+    }
+}

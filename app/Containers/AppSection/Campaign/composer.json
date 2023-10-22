@@ -1,0 +1,6 @@
+{
+    "name": "apiato/campaign",
+    "description": "Campaign Container for apiato.",
+    "require": {
+    }
+}
